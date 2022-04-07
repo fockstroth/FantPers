@@ -85,7 +85,7 @@ export default function App() {
   <p>Sexo: ${form.sexo}</p>
   <p>Escolaridade: ${form.escolaridade}</p>
   <p>Telefone: ${form.telefone}</p>
-  <p>Email: ${form.sexo}</p>
+  <p>Email: ${form.email}</p>
   <h2>Dados trabalhistas</h2>
   <p>Setor: ${form.setor}</p>
   <p>Cargo: ${form.cargo}</p>
